@@ -22,6 +22,6 @@ Left Click Again | Draw bottom right point of box
 #### Keyboard Shortcuts
 Shortcut | Description | 
 --- | --- |
-<kbd>  s</kbd> | save old boxes and begin new box |
-<kbd>  r</kbd> | reset all boxes (clear) |
-<kbd>  q</kbd> | save all then exit program |
+<kbd>s</kbd>| save old boxes and begin new box |
+<kbd>r</kbd>| reset all boxes (clear) |
+<kbd>q</kbd>| save all then exit program |
