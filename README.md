@@ -10,8 +10,8 @@ It will be saved in plain text file.Then it will be used again in the main progr
 
 ## Usages
 `cd StarkSPY/\n`
-`python3 --rectangle\n` (rectangle marking)
-`python3 --circle` (circle marking)
+* **rectangle marking:** `python3 --rectangle`
+  * **circle marking:** `python3 --circle`
 
 ### Instruction manual
 #### Mouse control for rectangle marking
