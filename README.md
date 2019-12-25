@@ -9,9 +9,9 @@ The created box positions are according to OpenCV showup window.
 It will be saved in plain text file.Then it will be used again in the main program.
 
 ## Usages
-'cd StarkSPY/'
-'python3 --rectangle' (rectangle marking)
-'python3 --circle' (circle marking)
+`cd StarkSPY/`
+`python3 --rectangle` (rectangle marking)
+`python3 --circle` (circle marking)
 
 ### Instruction manual
 #### Mouse control for rectangle marking
