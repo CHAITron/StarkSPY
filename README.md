@@ -14,11 +14,18 @@ It will be saved in plain text file.Then it will be used again in the main progr
 'python3 --circle' (circle marking)
 
 ### Instruction manual
-#### Mouse control
+#### Mouse control for rectangle marking
 Action | Description | 
 --- | --- |
 Left Click | Begin upper left point of box
 Left Click Again | Draw bottom right point of box
+
+#### Mouse control for circle marking
+Action | Description | 
+--- | --- |
+Left Click | Begin center point of circle
+Left Click Again | Draw point on the circumference of circle
+
 #### Keyboard Shortcuts
 Shortcut | Description | 
 --- | --- |
