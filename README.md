@@ -1,5 +1,7 @@
 # StarkSPY
 
+![StarkSPY Logo](/images/logo.png)
+
 StarkSPY is a **Linux** bounding box marking tool and integrates into surveillance application.
 You can create actions, when object attempts your marked bounding area. (e.g. print texts, counters, change status, etc.)
 
