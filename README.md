@@ -35,3 +35,7 @@ Shortcut | Description |
 <kbd>s</kbd>| save old boxes and begin new box |
 <kbd>r</kbd>| reset all boxes (clear) |
 <kbd>q</kbd>| save all then exit program |
+
+#### Special Credits
+  Thanks to Adrian Rosebrock, for writing many great articles some of my object detection codes are related to 
+  https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/
