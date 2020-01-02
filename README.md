@@ -3,8 +3,8 @@
 ![StarkSPY Logo](/images/logo.png)
 
 StarkSPY is a **Linux** bounding box marking tool and video surveillance based on OpenCV library for checking availability of target object in real time.
-There are two programs consist of marking tool and the main program with using object detection algorithm. 
-You can create more actions, when object attempts your marked bounding area. (e.g. print texts, counters, change status, etc.)
+There are two programs consist of marking tool, which allow you to create bounding area, and the main program with using object detection algorithm. 
+Furthermore, You can program more actions, when object attempts your marked bounding area. (e.g. print texts, counters, change status, etc.)
 
 It is written in Python3 and uses OpenCV for its graphical interface.
 
