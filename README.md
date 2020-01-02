@@ -8,6 +8,9 @@ You can create more actions, when object attempts your marked bounding area. (e.
 
 It is written in Python3 and uses OpenCV for its graphical interface.
 
+MobileNet-SSD is convolution neural networks model used to perform object detection. It is trained with PASCAL VOC (Visual Object Classes) dataset, so there are 21 classes you can choose include: 
+"background", "aeroplane", "bicycle", "bird", "boat", "bottle", "bus", "car", "cat", "chair", "cow", "diningtable", "dog", "horse", "motorbike", "person", "pottedplant", "sheep", "sofa", "train", "tvmonitor
+
 The created box positions are according to OpenCV showup window. 
 It will be saved in plain text file.Then it will be used again in the main program.
 
