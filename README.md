@@ -16,8 +16,12 @@ It will be saved in plain text file.Then it will be used again in the main progr
 
 ## Usages
 `cd StarkSPY/\n`
-* **rectangle marking:** `python3 --rectangle`
-  * **circle marking:** `python3 --circle`
+1. You need to draw bounding area first
+* **rectangle marking:** `python3 GenBOX -s rectangle`
+  * **circle marking:** `python3 GenBOX -s circle`
+2. Use your marked areas in real-time capturing
+     python3 SpyCAM`
+  
 
 ### Instruction manual
 #### Mouse control for rectangle marking
