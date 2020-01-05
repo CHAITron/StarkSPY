@@ -20,7 +20,7 @@ It will be saved in plain text file.Then it will be used again in the main progr
 * **rectangle marking:** `python3 GenBOX -s rectangle`
   * **circle marking:** `python3 GenBOX -s circle`
 2. Use your marked areas in real-time capturing
-     python3 SpyCAM`
+     `python3 SpyCAM`
   
 
 ### Instruction manual
