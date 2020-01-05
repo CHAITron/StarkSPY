@@ -42,3 +42,6 @@ Shortcut | Description |
 <kbd>s</kbd>| save drawed boxes and begin new box |
 <kbd>r</kbd>| reset all boxes (clear all) |
 <kbd>q</kbd>| save all then exit program |
+
+## Full Tutorial
+[Youtube Tutorial Video](https://youtu.be/EgN4qgl30dA)
