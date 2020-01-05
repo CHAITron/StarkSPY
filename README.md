@@ -44,4 +44,6 @@ Shortcut | Description |
 <kbd>q</kbd>| save all then exit program |
 
 ## Full Tutorial
-[Youtube Tutorial Video](https://youtu.be/EgN4qgl30dA)
+
+[![Tutorial Video](/images/tutorial.png)](https://youtu.be/EgN4qgl30dA)
+[https://youtu.be/EgN4qgl30dA](https://youtu.be/EgN4qgl30dA)
