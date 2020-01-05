@@ -1,5 +1,5 @@
 # StarkSPY
-<img src="/images/logo.png" width="425"/> <img src="/images/carpark.gif" width="425"/> 
+<img src="/images/logo.png" width="300"/> <img src="/images/carpark.gif" width="625"/> 
 ![StarkSPY Logo](/images/logo.png)  |   ![Parking Application](/images/carpark.gif)
 
 StarkSPY is a **Linux** bounding box marking tool and video surveillance based on OpenCV library for checking availability of target object in real time.
