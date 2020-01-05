@@ -45,3 +45,6 @@ Shortcut | Description |
 
 ## Full Tutorial: [https://youtu.be/EgN4qgl30dA](https://youtu.be/EgN4qgl30dA)
 [<img src="/images/tutorial.png" width="425"/>](https://youtu.be/EgN4qgl30dA)
+
+#### More Information
+https://medium.com/@chaitat.u/autonomous-availability-checker-with-starkspy-295ad0b92d0b?source=friends_link&sk=c76c05d04519e5ada4e89c300c8122a9
