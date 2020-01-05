@@ -43,6 +43,5 @@ Shortcut | Description |
 <kbd>r</kbd>| reset all boxes (clear all) |
 <kbd>q</kbd>| save all then exit program |
 
-## Full Tutorial
-[https://youtu.be/EgN4qgl30dA](https://youtu.be/EgN4qgl30dA)
+## Full Tutorial: [https://youtu.be/EgN4qgl30dA](https://youtu.be/EgN4qgl30dA)
 [<img src="/images/tutorial.png" width="425"/>](https://youtu.be/EgN4qgl30dA)
