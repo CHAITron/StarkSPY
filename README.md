@@ -14,7 +14,7 @@ The created box positions are according to OpenCV showup window.
 It will be saved in plain text file.Then it will be used again in the main program.
 
 ## Usages
-`cd StarkSPY/\n`
+`cd StarkSPY/`
 1. You need to draw bounding area first
 * **rectangle marking:** `python3 GenBOX -s rectangle`
   * **circle marking:** `python3 GenBOX -s circle`
