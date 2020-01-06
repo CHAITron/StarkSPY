@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.com/CHAITron/StarkSPY.svg?branch=master)](https://travis-ci.com/CHAITron/StarkSPY)
-[![codecov.io Code Coverage](https://img.shields.io/codecov/c/github/CHAITron/StarkSPY.svg?maxAge=2592000)](https://codecov.io/github/CHAITron/StarkSPY?branch=master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # StarkSPY
 ![Parking Application](/images/carpark.gif) <img src="/images/logo.png" width="220"/> 
