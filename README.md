@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
-CODECOV_TOKEN="13e9b3a0-dd01-4a58-a200-5a4456a37fea"
 # StarkSPY
 ![Parking Application](/images/carpark.gif) <img src="/images/logo.png" width="220"/> 
 
