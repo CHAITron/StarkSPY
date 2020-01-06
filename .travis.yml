@@ -1,3 +1,6 @@
+env:
+  global:
+  - CODECOV_TOKEN=13e9b3a0-dd01-4a58-a200-5a4456a37fea
 language: python
 python:
   - 3.5
