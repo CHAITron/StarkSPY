@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.com/CHAITron/StarkSPY.svg?branch=master)](https://travis-ci.com/CHAITron/StarkSPY)
-[![codecov.io Code Coverage](https://img.shields.io/codecov/c/github/CHAITron/StarkSPY.svg?maxAge=2592000)](https://codecov.io/github/CHAITron/StarkSPY?branch=master)
+#[![Build Status](https://travis-ci.com/CHAITron/StarkSPY.svg?branch=master)](https://travis-ci.com/CHAITron/StarkSPY)
+#[![codecov.io Code Coverage](https://img.shields.io/codecov/c/github/CHAITron/StarkSPY.svg?maxAge=2592000)](https://codecov.io/github/CHAITron/StarkSPY?branch=master)
 # StarkSPY
 ![Parking Application](/images/carpark.gif) <img src="/images/logo.png" width="220"/> 
 
