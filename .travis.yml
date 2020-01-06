@@ -9,6 +9,7 @@ python:
   - 3.8
 before_install:
   - python3 --version
+  - pip3 install coverage
   - pip3 install -U pip
   - pip3 install -U pytest
   - pip3 install codecov
@@ -16,4 +17,5 @@ install:
   - pip3 install -r requirements.txt # install package + test dependencies
 script: 
   - exit 0
-
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
