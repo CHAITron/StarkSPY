@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
 # StarkSPY
 ![Parking Application](/images/carpark.gif) <img src="/images/logo.png" width="220"/> 
 
