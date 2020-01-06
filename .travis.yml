@@ -1,0 +1,17 @@
+dist: xenial
+language: python
+  - "2.7"
+  - "3.4"
+  - "3.5"
+  - "3.6"      # current default Python on Travis CI
+  - "3.7"
+  - "3.8"
+  - "3.8-dev"  # 3.8 development branch
+  - "nightly"  # nightly build
+  - "pypy3"  # currently Python 3.6.1,  PyPy 7.1.1-beta0
+  install:
+  - pip3 install -r requirements.txt
+  script:
+  - python3 GenBOX.py
+  - python3 SpyCAM.py
+  
